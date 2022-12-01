@@ -29,4 +29,6 @@ double formula = Math.Sqrt((Math.Pow(x1-x2, 2)) + (Math.Pow(y1-y2, 2)) + (Math.P
 
 double res = Math.Round(formula,2);
 
-Console.WriteLine("The distance between the points is: " + res);
+Console.WriteLine("The distance between points is: " + res);
+
+//Done
